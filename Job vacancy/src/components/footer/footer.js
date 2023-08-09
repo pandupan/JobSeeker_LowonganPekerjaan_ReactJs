@@ -2,7 +2,7 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <footer className="footer items-center p-4 mt-48 bg-orange-900 text-neutral-content">
+    <footer className="footer items-center p-4 mt-48 bg-blue-900 text-neutral-content">
         <div className="items-center grid-flow-col">
           <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/512/external-job-seeker-resume-flaticons-lineal-color-flat-icons.png" className="h-6 ml-10 mr-3 sm:h-9" alt="Job Seeker" />
           <span className="self-center text-xl font-semibold whitespace-nowrap dark:text-white">Job Seeker</span>
